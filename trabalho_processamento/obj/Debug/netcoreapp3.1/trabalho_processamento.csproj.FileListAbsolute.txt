@@ -1,0 +1,15 @@
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.exe
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.deps.json
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.runtimeconfig.json
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.runtimeconfig.dev.json
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.dll
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\bin\Debug\netcoreapp3.1\trabalho_processamento.pdb
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.csproj.AssemblyReference.cache
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.Form1.resources
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.csproj.GenerateResource.cache
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.AssemblyInfoInputs.cache
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.AssemblyInfo.cs
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.csproj.CoreCompileInputs.cache
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.dll
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.pdb
+C:\Users\Luan\OneDrive\Área de Trabalho\trabalho_processamento\trabalho_processamento\obj\Debug\netcoreapp3.1\trabalho_processamento.genruntimeconfig.cache
